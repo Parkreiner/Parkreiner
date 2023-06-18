@@ -20,7 +20,7 @@
       />
     </a>
   </div>
-  <p style="font-style: italic; text-align:italic">Some tech I've been working with lately</p>
+  <p align="center">Some tech I've been working with lately</p>
 </figure>
 
 
