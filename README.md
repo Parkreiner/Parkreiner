@@ -12,11 +12,11 @@
 
 <div align="center">  
   <a href="https://www.linkedin.com/in/michael-eric-smith/">
-    <img src="https://img.shields.io/badge/%20-Michael--Eric--Smith-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/%20-Check%20out%20my%20LinkedIn-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff" />
   </a>
     
   <a href="mailto:michael-eric-smith@pm.me">
-    <img src="https://img.shields.io/badge/%20-michael--eric--smith@pm.me-black?color=14171A&labelColor=D44638&logo=maildotru&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/%20-Send%20me%20an%20email-black?color=14171A&labelColor=D44638&logo=maildotru&logoColor=ffffff" />
   </a>
 </div>
 &nbsp;
@@ -26,7 +26,7 @@
 <div align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=react,ts,js,postgres,py,html,css,tailwind,nextjs,nodejs,express,redux,figma,vercel,vite&perline=8"
+      src="https://skillicons.dev/icons?i=react,ts,js,postgres,py,redis,html,css,tailwind,nextjs,nodejs,express,redux,figma,vercel,vite&perline=8"
       alt="Recent tech"
     />
   </a>
