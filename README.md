@@ -12,7 +12,7 @@
 
 <div align="center">  
   <a href="https://www.linkedin.com/in/michael-eric-smith/">
-    LinkedIn
+    <img src="https://img.shields.io/badge/%20-Michael--Eric--Smith-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff" />
   </a>
     
   <a href="mailto:michael-eric-smith@pm.me">
