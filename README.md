@@ -10,7 +10,7 @@
   duty as developers to make all the draconian, super-technical things we work with as approachable and usable to non-technical users as possible.
 </p>
 
-<div align="center" style="margin-bottom: 1rem">  
+<div align="center">  
   <a href="https://www.linkedin.com/in/michael-eric-smith/">
     <img src="https://img.shields.io/badge/%20-Michael--Eric--Smith-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff" />
   </a>
@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/%20-michael--eric--smith@pm.me-black?color=14171A&labelColor=D44638&logo=protonmail&logoColor=ffffff" />
   </a>
 </div>
+&nbsp;
 
 <!--GitHub doesn't support <figure> and <figcaption> elements, sadly. It strips them right out.-->
 <div>
