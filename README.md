@@ -10,16 +10,17 @@
   duty as developers to make all the draconian, super-technical things we work with as approachable and usable to non-technical users as possible.
 </p>
 
+<!--GitHub doesn't support <figure> and <figcaption> elements, sadly. It strips them right out.-->
 <figure>
   <div align="center">
     <a href="https://skillicons.dev">
       <img
-        src="https://skillicons.dev/icons?i=react,ts,postgres,css,js,py,html,nextjs,nodejs,express,redux,figma,vercel&perline=4"
+        src="https://skillicons.dev/icons?i=react,ts,postgres,css,js,py,html,nextjs,nodejs,express,redux,figma,vercel,vite&perline=7"
         alt="Recent tech"
       />
     </a>
   </div>
-  <figcaption style="font-style: italic; text-align:italic">Some tech I've been working with lately</figcaption>
+  <p style="font-style: italic; text-align:italic">Some tech I've been working with lately</p>
 </figure>
 
 
