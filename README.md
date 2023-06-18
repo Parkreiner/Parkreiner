@@ -12,11 +12,11 @@
 
 <div align="center">  
     <a href="https://www.linkedin.com/in/michael-eric-smith/">
-      <img src="https://img.shields.io/badge/%20-Michael-Eric-Smith-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff" />
+      LinkedIn
     </a>
     
     <a href="mailto:michael-eric-smith@pm.me">
-      <img src="https://img.shields.io/badge/%20-michael-eric-smith@pm.me-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=ffffff" />
+      Send me an email
     </a>
 </div>
 
