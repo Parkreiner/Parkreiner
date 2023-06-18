@@ -16,7 +16,7 @@
   </a>
     
   <a href="mailto:michael-eric-smith@pm.me">
-    Send me an email
+    <img src="https://img.shields.io/badge/%20-michael--eric--smith@pm.me-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=ffffff" />
   </a>
 </div>
 
