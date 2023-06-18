@@ -39,8 +39,8 @@
   <p>
     Lately I've been using my programming skills to make games and interactive media. I'm also a fan of
     <a href="https://devon.lol/blog/the-old-web/">the non-commercial web</a> and want to do my part in making 
-    the internet weird again. It used to be such a bright and vibrant place, and I love that communities like <a href="https://sadgrl.online/">Sadgrl.online</a> have sprung up 
-    to help bring back what used to make things so special.
+    the internet weird again. I have a lot of love and respect for communities like <a href="https://sadgrl.online/">Sadgrl.online</a> that aim
+    to help bring back what used to make the 'net so special.
   </p>
 </details>
 
