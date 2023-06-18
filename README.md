@@ -7,19 +7,19 @@
 
 <p>
   The internet should be for everyone. Not only does that mean this we should be taking the greatest pains to meet accessibility standards, but it also means that it's our 
-  responsibility as developers to make all the draconian, super-technical things we work with as approachable and usable to non-technical users as possible.
+  duty as developers to make all the draconian, super-technical things we work with as approachable and usable to non-technical users as possible.
 </p>
 
 <figure>
   <div align="center">
     <a href="https://skillicons.dev">
       <img
-        src="https://skillicons.dev/icons?i=react,ts,postgres,css,js,py,html,nextjs,nodejs,express,redux,figma,vercel,vite"
-        alt="A visual list of my favorite technologies"
+        src="https://skillicons.dev/icons?i=react,ts,postgres,css,js,py,html,nextjs,nodejs,express,redux,figma,vercel&perline=4"
+        alt="Recent tech"
       />
     </a>
   </div>
-  <figcaption>Some of my favorite tech.</figcaption>
+  <figcaption style="font-style: italic; text-align:italic">Some tech I've been working with lately</figcaption>
 </figure>
 
 
