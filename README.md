@@ -28,7 +28,7 @@
   <p>
     In my free time, I also like using these programming skills to make games and interactive media. I'm also a fan of the non-commercial web and want to do my part in making 
     the internet weird again. It used to be such a bright and vibrant place, and I love that communities like <a href="https://sadgrl.online/">Sadgrl.online</a> have sprung up 
-    to help bring back what used to make the internet so special.
+    to help bring back what used to make things so special.
   </p>
 </details>
 
