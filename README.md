@@ -26,7 +26,7 @@
   <div align="center">
     <a href="https://skillicons.dev">
       <img
-        src="https://skillicons.dev/icons?i=react,ts,js,postgres,py,html,css,tailwindnextjs,nodejs,express,redux,figma,vercel,vite&perline=8"
+        src="https://skillicons.dev/icons?i=react,ts,js,postgres,py,html,css,tailwind,nextjs,nodejs,express,redux,figma,vercel,vite&perline=8"
         alt="Recent tech"
       />
     </a>
