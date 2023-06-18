@@ -23,25 +23,13 @@
   <p align="center"><i>Some tech I've been working with lately</i></p>
 </div>
 
+<details>
+  <summary><b>🤠Fun Facts</b></summary>
+  <p>
+    In my free time, I also like using these programming skills to make games and interactive media. I'm also a fan of the non-commercial web and want to do my part in making 
+    the internet weird again. It used to be such a bright and vibrant place, and I love that communities like <a href="https://sadgrl.online/">Sadgrl.online</a> have sprung up 
+    to help bring back what used to make the internet so special.
+  </p>
+</details>
 
-<h4>Fun Facts</h4>
-<p>
-  In my free time, I also like using these programming skills to make games and interactive media. I'm also a fan of the non-commercial web and want to do what I can to make 
-  it weird again. It used to be such a bright and vibrant place, and I love that communities like <a href="https://sadgrl.online/">Sadgrl.online</a> have sprung up to help 
-  bring back what used to make the internet so special.
-</p>
 
-<!--
-**Parkreiner/Parkreiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
