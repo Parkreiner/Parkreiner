@@ -22,17 +22,16 @@
 &nbsp;
 
 <!--GitHub doesn't support <figure> and <figcaption> elements, sadly. It strips them right out.-->
-<div>
-  <div align="center">
-    <a href="https://skillicons.dev">
-      <img
-        src="https://skillicons.dev/icons?i=react,ts,js,postgres,py,html,css,tailwind,nextjs,nodejs,express,redux,figma,vercel,vite&perline=8"
-        alt="Recent tech"
-      />
-    </a>
-  </div>
-  <p align="center"><i>Some tech I've been working with lately</i></p>
+<h4>Tech I've been working with recently</h4>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=react,ts,js,postgres,py,html,css,tailwind,nextjs,nodejs,express,redux,figma,vercel,vite&perline=8"
+      alt="Recent tech"
+    />
+  </a>
 </div>
+
 
 <details>
   <summary><b>🤠Fun Facts</b></summary>
