@@ -41,6 +41,7 @@
     <a href="https://devon.lol/blog/the-old-web/">the non-commercial web</a> and want to do my part in making 
     the internet weird again. I have a lot of love and respect for communities like <a href="https://sadgrl.online/">Sadgrl.online</a> that aim
     to help bring back what used to make the 'net so special.
+    <a href="https://sadgrl.online/cyberspace/internet-manifesto">Their manifesto's</a> a really good place to start.
   </p>
 </details>
 
