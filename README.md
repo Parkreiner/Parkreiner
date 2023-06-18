@@ -7,7 +7,7 @@
 
 <p>
   The internet should be for everyone. Not only does that mean this we should be taking the pains to meet accessibility standards, but it also means that it's our 
-  duty as developers to make all the draconian, super-technical things we work with as approachable and usable to non-technical users as possible.
+  duty as developers to make all the draconian, super-technical things we work with as approachable to non-technical users as possible.
 </p>
 
 <div align="center">  
