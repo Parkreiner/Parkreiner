@@ -11,17 +11,17 @@
 </p>
 
 <!--GitHub doesn't support <figure> and <figcaption> elements, sadly. It strips them right out.-->
-<figure>
+<div>
   <div align="center">
     <a href="https://skillicons.dev">
       <img
-        src="https://skillicons.dev/icons?i=react,ts,postgres,css,js,py,html,nextjs,nodejs,express,redux,figma,vercel,vite&perline=7"
+        src="https://skillicons.dev/icons?i=react,ts,postgres,js,css,py,html,nextjs,nodejs,express,redux,figma,vercel,vite&perline=7"
         alt="Recent tech"
       />
     </a>
   </div>
   <p align="center"><i>Some tech I've been working with lately</i></p>
-</figure>
+</div>
 
 
 <h4>Fun Facts</h4>
