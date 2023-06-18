@@ -37,7 +37,8 @@
 <details>
   <summary><b>🤠Fun Facts</b></summary>
   <p>
-    Lately I've been using my programming skills to make games and interactive media. I'm also a fan of the non-commercial web and want to do my part in making 
+    Lately I've been using my programming skills to make games and interactive media. I'm also a fan of
+    <a href="https://devon.lol/blog/the-old-web/">the non-commercial web</a> and want to do my part in making 
     the internet weird again. It used to be such a bright and vibrant place, and I love that communities like <a href="https://sadgrl.online/">Sadgrl.online</a> have sprung up 
     to help bring back what used to make things so special.
   </p>
