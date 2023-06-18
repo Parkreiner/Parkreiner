@@ -11,13 +11,13 @@
 </p>
 
 <div align="center">  
-    <a href="https://www.linkedin.com/in/michael-eric-smith/">
-      LinkedIn
-    </a>
+  <a href="https://www.linkedin.com/in/michael-eric-smith/">
+    LinkedIn
+  </a>
     
-    <a href="mailto:michael-eric-smith@pm.me">
-      Send me an email
-    </a>
+  <a href="mailto:michael-eric-smith@pm.me">
+    Send me an email
+  </a>
 </div>
 
 <!--GitHub doesn't support <figure> and <figcaption> elements, sadly. It strips them right out.-->
