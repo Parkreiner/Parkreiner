@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  The internet should be for everyone.
+  <i>The internet should be for everyone.</i>
 </p>
 
 <div align="center">  
@@ -31,7 +31,7 @@
   </a>
 </div>
 
-
+&nbsp;
 <details>
   <summary><b>🤠Fun Facts</b></summary>
   <p>
