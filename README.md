@@ -23,12 +23,19 @@
 <!--GitHub doesn't support <figure> and <figcaption> elements, sadly. It strips them right out.-->
 <h4 align="center">Tech I've been working with recently</h4>
 <div align="center">
+  <div>
   <a href="https://skillicons.dev">
     <img
       src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,astro,postgres,prisma,redis,js,nodejs,express,redux,py,figma,vercel,vite&perline=8"
       alt="Recent tech"
     />
   </a>
+  </div>
+
+  <i>
+    Pictured: TypeScript, React, Next.js, TailwindCSS, Astro, PostgreSQL, Prisma, Redis,<br />
+    JavaScript, Node.js, Express, Redux, Python, Figma, Vercel, Vite
+  </i>
 </div>
 
 &nbsp;
