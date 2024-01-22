@@ -21,7 +21,7 @@
 &nbsp;
 
 <!--GitHub doesn't support <figure> and <figcaption> elements, sadly. It strips them right out.-->
-<h4 align="center">Tech I've been working with recently</h4>
+<h4 align="center">Tech I've been building with recently</h4>
 <div align="center">
   <div>
   <a href="https://skillicons.dev">
