@@ -26,14 +26,14 @@
   <div>
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=ts,go,react,threejs,nextjs,tailwind,postgres,vite,figma&perline=9"
+      src="https://skillicons.dev/icons?i=ts,go,react,threejs,nextjs,tailwind,postgres&perline=9"
       alt="Recent tech"
     />
   </a>
   </div>
 
   <i>
-    Pictured: TypeScript, Go, React, Three.js, Next.js, TailwindCSS, PostgreSQL, Vite, Figma
+    Pictured: TypeScript, Go, React, Three.js, Next.js, TailwindCSS, PostgreSQL
   </i>
 </div>
 
