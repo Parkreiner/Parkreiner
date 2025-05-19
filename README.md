@@ -18,24 +18,6 @@
     <img src="https://img.shields.io/badge/%20-Send%20me%20an%20email-black?color=14171A&labelColor=D44638&logo=maildotru&logoColor=ffffff" />
   </a>
 </div>
-&nbsp;
-
-<!--GitHub doesn't support <figure> and <figcaption> elements, sadly. It strips them right out.-->
-<h4 align="center">Tech I've been building with recently</h4>
-<div align="center">
-  <div>
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=ts,go,react,threejs,tailwind,postgres&perline=9"
-      alt="Recent tech"
-    />
-  </a>
-  </div>
-
-  <i>
-    Pictured: TypeScript, Go, React, Three.js, TailwindCSS, PostgreSQL
-  </i>
-</div>
 
 &nbsp;
 <details>
