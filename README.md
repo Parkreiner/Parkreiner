@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">  
-  <a href="https://www.linkedin.com/in/michael-eric-smith/">
+  <a href="https://www.linkedin.com/in/buenos-nachos/">
     <img src="https://img.shields.io/badge/%20-Check%20out%20my%20LinkedIn-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff" />
   </a>
     
